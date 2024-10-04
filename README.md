@@ -1,1 +1,1 @@
-# LexifyAIProject
+# LexifyAI
