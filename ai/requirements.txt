@@ -1,6 +1,0 @@
-tensorflow  
-numpy
-pandas
-jupyter
-neptune-client
-redis
